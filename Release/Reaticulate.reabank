@@ -1,0 +1,556 @@
+// Reabank file for Reaticulate - http://reaticulate.com/
+//
+// This file is a specially formatted Reabank file that is notated for use by Reaticulate.
+// Specification can be found here:
+//
+// 		http://reaticulate.com/reabank.html
+//
+
+//----------------------------------------------------------------------------
+//! g="Ample Sound" n="Ample Bass J II"
+//! m="Set patch to UACC"
+Bank 70 1 ABJ - Basic Articulations
+
+//! c=long i=fx g=2 o=note:105,127
+127 Tap Player ON
+//! c=default i=fx g=2 o=note:105,1
+126 Tap Player OFF
+//! c=long i=fx g=3 o=note:104,127
+125 Open String First ON
+//! c=default i=fx g=3 o=note:104,1
+124 Open String First OFF
+//! c=legato-light i=legato-portamento g=4 o=note:99,127
+123 Auto LS
+//! c=legato-dark i=legato g=4 o=note:99,1
+122 Auto HP
+
+//! c=legato i=note-whole o=note:24
+24 Sustain
+//! c=textured i=harmonics-natural o=note:25
+25 Nature Harmonic
+//! c=textured i=legato-fast o=note:27
+27 Slide In & Out
+//! c=textured i=legato-portamento o=note-hold:28
+28 Legato Slide
+//! c=textured i=legato o=note:29
+29 Hammer-On & Pull-Off
+
+//! c=short i=spiccato o=note:26
+26 Palm Mute
+//! c=short i=staccato o=note:30
+30 Staccato
+//! c=short i=fx o=note:31
+31 Slap
+//! c=short i=fx o=note:32
+32 Tap
+//! c=short i=fx o=note:33
+33 Pop
+
+//! c=long i=list g=5 o=note:34
+34 Capo Man
+
+//! c=short-light i=fx o=note:103
+103 Force 1st String
+//! c=short-light i=fx o=note:102
+102 Force 2nd String
+//! c=short-light i=fx o=note:101
+101 Force 3rd String
+//! c=short-light i=fx o=note:100
+100 Force 4th String
+
+//----------------------------------------------------------------------------
+//! g="Ample Sound" n="Ample Metal Eclipse II"
+//! m="Set patch to UACC"
+Bank 70 2 AME - Basic Articulations
+
+//! c=long i=fx g=2 o=note:105,127
+127 Tap Player ON
+//! c=default i=fx g=2 o=note:105,1
+126 Tap Player OFF
+//! c=long i=fx g=3 o=note:104,127
+125 Open String First ON
+//! c=default i=fx g=3 o=note:104,1
+124 Open String First OFF
+//! c=long i=fx g=3 o=note:97,127
+123 Strum Mode ON
+//! c=default i=fx g=3 o=note:97,1
+122 Strum Mode OFF
+//! c=legato-light i=legato-portamento g=4 o=note:99,127
+121 Auto LS
+//! c=legato-dark i=legato g=4 o=note:99,1
+120 Auto HP
+
+//! c=legato i=note-whole o=note:24
+24 Sustain
+//! c=textured i=legato-portamento o=note-hold:25
+25 Legato Slide
+//! c=textured i=legato o=note:26
+26 Hammer-On & Pull-Off
+//! c=textured i=legato-fast o=note:27
+27 Slide In & Out
+
+//! c=long i=list g=5 o=note:29
+29 Capo Man
+
+//----------------------------------------------------------------------------
+//! g="Three-Body Tech" n="Heavier 7th Strings"
+//! m="Set patch to UACC"
+Bank 70 65 H7S - Basic Articulations
+
+//! c=legato i=note-whole o=note:29
+29 Repeat Normal
+//! c=legato i=note-whole o=note:27
+27 Repeat Muting
+//! c=legato i=note-whole o=note:25
+25 Repeat Picking Noise
+
+//! c=fx i=fx g=2 o=note:2
+2 Bridge Picking
+//! c=fx i=fx g=2 o=note:1
+1 Mix Picking
+//! c=fx i=fx g=2 o=note:0
+0 Neck Picking
+
+//----------------------------------------------------------------------------
+//! g="Embertone" n="Crystal Flute"
+//! m="Set patch to UACC"
+Bank 71 1 Embertone - Crystal Flute
+
+//! c=short i=staccato o=note:57
+57 Short
+//! c=long i=note-whole o=note:58
+58 Poly
+//! c=legato i=legato o=note:59
+59 Legato
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 1 BSB - Ens Full Brass
+
+//! c=legato-dark i=legato o=note:24
+24 Sustain
+//! c=short i=staccato o=note:25
+25 Staccato
+//! c=short i=tenuto-quarter o=note:26
+26 Tenuto
+//! c=long i=marcato o=note:27
+27 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="02 Trumpets"
+//! m="Set patch to UACC"
+Bank 72 2 BSB - Ens Trumpets
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+//! c=fx i=rip o=note:31
+31 Rip
+//! c=fx i=fall o=note:32
+32 Fall
+//! c=fx i=multitongued o=note:33
+33 Multi-tongue
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="03 Horns"
+//! m="Set patch to UACC"
+Bank 72 3 BSB - Ens Horns
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+//! c=fx i=rip o=note:31
+31 Rip
+//! c=fx i=fall o=note:32
+32 Fall
+//! c=fx i=multitongued o=note:33
+33 Multi-tongue
+//! c=fx i=fx o=note:34
+34 Flutter
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="04 Trombones"
+//! m="Set patch to UACC"
+Bank 72 4 BSB - Ens Trombones
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=fx o=note:29
+29 Flutter
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="05 Low Brass"
+//! m="Set patch to UACC"
+Bank 72 5 BSB - Ens Low Brass
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=rip o=note:29
+29 Rip
+//! c=fx i=fall o=note:30
+30 Fall
+
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="06 Orchestrator" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 6 BSB - Ens Orchestrator
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="07 Chordmaker" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 7 BSB - Ens Chordmaker
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 8 BSB - Piccolo Trumpet
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="02 Trumpet" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 9 BSB - Trumpet
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="03 Flugelhorn" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 10 BSB - Flugelhorn
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="04 Horn" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 11 BSB - Horn
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="05 Trombone"
+//! m="Set patch to UACC"
+Bank 72 12 BSB - Trombone
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="06 Tuba" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/05 Trombone"
+//! m="Set patch to UACC"
+Bank 72 13 BSB - Tuba
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="07 Orchestrator" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 14 BSB - Solo Orchestrator
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="08 Chordmaker" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 15 BSB - Solo Chordmaker
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="01 Full Brass FX"
+//! m="Set patch to UACC"
+Bank 72 16 BSB - Full Brass FX
+
+//! c=fx i=fx o=note:24
+24 Atonal Rips & Falls
+//! c=fx i=fx o=note:25
+25 Atonal Rips + Falls
+//! c=fx i=fx o=note:26
+26 Clusters
+//! c=fx i=fx o=note:27
+27 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="02 Horns FX"
+//! m="Set patch to UACC"
+Bank 72 17 BSB - Horns FX
+
+//! c=fx i=fx o=note:24
+24 Rips, Pulses & Flurries
+//! c=fx i=fx o=note:25
+25 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="03 Trumpets FX"
+//! m="Set patch to UACC"
+Bank 72 18 BSB - Trumpets FX
+
+//! c=fx i=fx o=note:24
+24 Atonal Rips & Falls
+//! c=fx i=fx o=note:25
+25 Stabs & Loose Lips
+//! c=fx i=fx o=note:26
+26 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="04 Trombones FX"
+//! m="Set patch to UACC"
+Bank 72 19 BSB - Trombones FX
+
+//! c=fx i=fx o=note:24
+24 Step Slides & Risers
+//! c=fx i=fx o=note:25
+25 Flutters & Flybys
+//! c=fx i=fx o=note:26
+26 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="05 Low Brass FX"
+//! m="Set patch to UACC"
+Bank 72 20 BSB - Low Brass FX
+
+//! c=fx i=fx o=note:24
+24 Stabs & Scoops
+//! c=fx i=fx o=note:25
+25 Flutter Swells & Flybys
+//! c=fx i=fx o=note:26
+26 Sneaks & Cows
+
+//----------------------------------------------------------------------------
+//! g="SONiVOX Orchestral Companion Woodwinds" n="All in one"
+//! m="Set patch to UACC"
+Bank 73 1 OCW - General
+
+//! c=legato i=legato o=note:12
+12 Sustain vib
+//! c=legato-dark i=legato o=note:13
+13 Sustain no vib
+//! c=short i=staccato o=note:14
+14 Staccato
+//! c=short i=staccato o=note:15
+15 Staccatisimo
+//! c=fx i=fx o=note:16
+16 Various
+
+//----------------------------------------------------------------------------
+//! g="Cinematic Studio Strings" n="All-in-One"
+//! m="Set patch to UACC"
+Bank 74 1 CSS 1st Violins
+
+//! c=legato i=legato o=note:24
+24 Sustain
+
+//! c=legato i=tremolo o=note:25
+25 Tremolo
+
+//! c=legato i=tremolo o=note:26
+26 Measured Trem
+
+//! c=legato i=trill o=note:27
+27 Trills
+
+//! c=legato i=harmonics o=note:28
+28 Harmonic
+
+//! c=short i=staccato o=note:29
+29 Staccato
+
+//! c=short i=marcato o=note:30
+30 Marcato
+
+//! c=short i=pizz o=note:31
+31 Pizzicato
+
+//! c=fx i=legato g=2 o=note:34,1
+127 Legato Off
+
+//! c=fx i=legato g=2 o=note:34,127
+126 Legato On
+
+//! c=fx i=con-sord g=2 o=note:35,1
+125 Con-Sordino Off
+
+//! c=fx i=con-sord g=2 o=note:35,127
+124 Con-Sordino On
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Strings All-in-One"
+//! m="Set patch to UACC"
+Bank 75 1 Jaeger Strings Violins
+
+//! c=legato i=legato o=note:12
+12 Legato (NV-V)
+
+//! c=legato i=legato o=note:13
+13 Sustained (NV-V)
+
+//! c=legato i=tremolo o=note:14
+14 Tremolo
+
+//! c=short i=spiccato o=note:15
+15 Spiccato
+
+//! c=short i=staccato o=note:16
+16 Staccato
+
+//! c=legato i=legato o=note:17
+17 Portato
+
+//! c=short i=col-legno o=note:18
+18 Col Legno
+
+//! c=short i=pizz-bartok o=note:19
+19 Bartok Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass Trumpets"
+//! m="Set patch to UACC"
+Bank 75 2 Jaeger Brass Trumpets
+
+//! c=legato i=legato o=note:12
+12 Legato
+
+//! c=legato i=legato o=note:13
+13 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:14
+14 Staccatissimo
+
+//! c=short i=staccato o=note:15
+15 Staccato
+
+//! c=legato i=legato o=note:16
+16 Portato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Horns"
+//! m="Set patch to UACC"
+Bank 75 3 Jaeger Brass Horns
+
+//! c=legato i=legato o=note:12
+12 Legato
+
+//! c=legato i=legato o=note:13
+13 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:14
+14 Staccatissimo
+
+//! c=short i=staccato o=note:15
+15 Staccato
+
+//! c=legato i=legato o=note:16
+16 Portato
+
+//! c=fx i=rip o=note:17
+16 Rip
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Trombones"
+//! m="Set patch to UACC"
+Bank 75 4 Jaeger Brass Trombones
+
+//! c=legato i=legato o=note:12
+12 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:13
+13 Staccatissimo
+
+//! c=short i=staccato o=note:14
+14 Staccato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Tubas"
+//! m="Set patch to UACC"
+Bank 75 5 Jaeger Brass Tubas
+
+//! c=legato i=legato o=note:12
+12 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:13
+13 Staccatissimo
+
+//! c=short i=staccato o=note:14
+14 Staccato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Vocals"
+//! m="Set patch to UACC"
+Bank 75 6 Jaeger Vocals
+
+//! c=legato i=legato o=note:12
+12 Legato Aah
+
+//! c=legato i=legato o=note:13
+13 Sustained Aah
+
+//! c=legato i=legato o=note:14
+14 Legato Ooh
+
+//! c=legato i=legato o=note:15
+15 Sustained Ooh
+
+//! c=legato i=legato o=note:16
+16 Legato Mmm
+
+//! c=legato i=legato o=note:17
+17 Sustained Mmm
+
+//! c=fx i=legato o=note:18
+18 Phrases
+
+//! c=fx i=fx o=note:19
+19 Up Scales
+
+//! c=fx i=fx o=note:20
+20 Breathes
