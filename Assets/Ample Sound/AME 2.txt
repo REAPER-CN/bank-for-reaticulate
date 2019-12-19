@@ -1,0 +1,33 @@
+//----------------------------------------------------------------------------
+//! g="Ample Sound" n="Ample Metal Eclipse II"
+//! m="Set patch to UACC"
+Bank 70 2 AME - Basic Articulations
+
+//! c=long i=fx g=2 o=note:105,127
+127 Tap Player ON
+//! c=default i=fx g=2 o=note:105,1
+126 Tap Player OFF
+//! c=long i=fx g=3 o=note:104,127
+125 Open String First ON
+//! c=default i=fx g=3 o=note:104,1
+124 Open String First OFF
+//! c=long i=fx g=3 o=note:97,127
+123 Strum Mode ON
+//! c=default i=fx g=3 o=note:97,1
+122 Strum Mode OFF
+//! c=legato-light i=legato-portamento g=4 o=note:99,127
+121 Auto LS
+//! c=legato-dark i=legato g=4 o=note:99,1
+120 Auto HP
+
+//! c=legato i=note-whole o=note:24
+24 Sustain
+//! c=textured i=legato-portamento o=note-hold:25
+25 Legato Slide
+//! c=textured i=legato o=note:26
+26 Hammer-On & Pull-Off
+//! c=textured i=legato-fast o=note:27
+27 Slide In & Out
+
+//! c=long i=list g=5 o=note:29
+29 Capo Man

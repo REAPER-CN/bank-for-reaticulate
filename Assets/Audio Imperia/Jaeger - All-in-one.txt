@@ -1,0 +1,131 @@
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Strings All-in-One"
+//! m="Set patch to UACC"
+Bank 75 1 Jaeger Strings Violins
+
+//! c=legato i=legato o=note:12
+12 Legato (NV-V)
+
+//! c=legato i=legato o=note:13
+13 Sustained (NV-V)
+
+//! c=legato i=tremolo o=note:14
+14 Tremolo
+
+//! c=short i=spiccato o=note:15
+15 Spiccato
+
+//! c=short i=staccato o=note:16
+16 Staccato
+
+//! c=legato i=legato o=note:17
+17 Portato
+
+//! c=short i=col-legno o=note:18
+18 Col Legno
+
+//! c=short i=pizz-bartok o=note:19
+19 Bartok Pizzicato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass Trumpets"
+//! m="Set patch to UACC"
+Bank 75 2 Jaeger Brass Trumpets
+
+//! c=legato i=legato o=note:12
+12 Legato
+
+//! c=legato i=legato o=note:13
+13 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:14
+14 Staccatissimo
+
+//! c=short i=staccato o=note:15
+15 Staccato
+
+//! c=legato i=legato o=note:16
+16 Portato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Horns"
+//! m="Set patch to UACC"
+Bank 75 3 Jaeger Brass Horns
+
+//! c=legato i=legato o=note:12
+12 Legato
+
+//! c=legato i=legato o=note:13
+13 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:14
+14 Staccatissimo
+
+//! c=short i=staccato o=note:15
+15 Staccato
+
+//! c=legato i=legato o=note:16
+16 Portato
+
+//! c=fx i=rip o=note:17
+16 Rip
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Trombones"
+//! m="Set patch to UACC"
+Bank 75 4 Jaeger Brass Trombones
+
+//! c=legato i=legato o=note:12
+12 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:13
+13 Staccatissimo
+
+//! c=short i=staccato o=note:14
+14 Staccato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Brass French Tubas"
+//! m="Set patch to UACC"
+Bank 75 5 Jaeger Brass Tubas
+
+//! c=legato i=legato o=note:12
+12 Sustained
+
+//! c=short i=staccatissimo-stopped o=note:13
+13 Staccatissimo
+
+//! c=short i=staccato o=note:14
+14 Staccato
+
+//----------------------------------------------------------------------------
+//! g="Audio Imperia - Jaeger" n="Vocals"
+//! m="Set patch to UACC"
+Bank 75 6 Jaeger Vocals
+
+//! c=legato i=legato o=note:12
+12 Legato Aah
+
+//! c=legato i=legato o=note:13
+13 Sustained Aah
+
+//! c=legato i=legato o=note:14
+14 Legato Ooh
+
+//! c=legato i=legato o=note:15
+15 Sustained Ooh
+
+//! c=legato i=legato o=note:16
+16 Legato Mmm
+
+//! c=legato i=legato o=note:17
+17 Sustained Mmm
+
+//! c=fx i=legato o=note:18
+18 Phrases
+
+//! c=fx i=fx o=note:19
+19 Up Scales
+
+//! c=fx i=fx o=note:20
+20 Breathes

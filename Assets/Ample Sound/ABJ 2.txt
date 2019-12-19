@@ -1,0 +1,51 @@
+//----------------------------------------------------------------------------
+//! g="Ample Sound" n="Ample Bass J II"
+//! m="Set patch to UACC"
+Bank 70 1 ABJ - Basic Articulations
+
+//! c=long i=fx g=2 o=note:105,127
+127 Tap Player ON
+//! c=default i=fx g=2 o=note:105,1
+126 Tap Player OFF
+//! c=long i=fx g=3 o=note:104,127
+125 Open String First ON
+//! c=default i=fx g=3 o=note:104,1
+124 Open String First OFF
+//! c=legato-light i=legato-portamento g=4 o=note:99,127
+123 Auto LS
+//! c=legato-dark i=legato g=4 o=note:99,1
+122 Auto HP
+
+//! c=legato i=note-whole o=note:24
+24 Sustain
+//! c=textured i=harmonics-natural o=note:25
+25 Nature Harmonic
+//! c=textured i=legato-fast o=note:27
+27 Slide In & Out
+//! c=textured i=legato-portamento o=note-hold:28
+28 Legato Slide
+//! c=textured i=legato o=note:29
+29 Hammer-On & Pull-Off
+
+//! c=short i=spiccato o=note:26
+26 Palm Mute
+//! c=short i=staccato o=note:30
+30 Staccato
+//! c=short i=fx o=note:31
+31 Slap
+//! c=short i=fx o=note:32
+32 Tap
+//! c=short i=fx o=note:33
+33 Pop
+
+//! c=long i=list g=5 o=note:34
+34 Capo Man
+
+//! c=short-light i=fx o=note:103
+103 Force 1st String
+//! c=short-light i=fx o=note:102
+102 Force 2nd String
+//! c=short-light i=fx o=note:101
+101 Force 3rd String
+//! c=short-light i=fx o=note:100
+100 Force 4th String

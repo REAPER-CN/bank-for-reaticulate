@@ -1,0 +1,18 @@
+//----------------------------------------------------------------------------
+//! g="Three-Body Tech" n="Heavier 7th Strings"
+//! m="Set patch to UACC"
+Bank 70 65 H7S - Basic Articulations
+
+//! c=legato i=note-whole o=note:29
+29 Repeat Normal
+//! c=legato i=note-whole o=note:27
+27 Repeat Muting
+//! c=legato i=note-whole o=note:25
+25 Repeat Picking Noise
+
+//! c=fx i=fx g=2 o=note:2
+2 Bridge Picking
+//! c=fx i=fx g=2 o=note:1
+1 Mix Picking
+//! c=fx i=fx g=2 o=note:0
+0 Neck Picking

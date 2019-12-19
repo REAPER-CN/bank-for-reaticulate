@@ -1,0 +1,15 @@
+//----------------------------------------------------------------------------
+//! g="SONiVOX Orchestral Companion Woodwinds" n="All in one"
+//! m="Set patch to UACC"
+Bank 73 1 OCW - General
+
+//! c=legato i=legato o=note:12
+12 Sustain vib
+//! c=legato-dark i=legato o=note:13
+13 Sustain no vib
+//! c=short i=staccato o=note:14
+14 Staccato
+//! c=short i=staccato o=note:15
+15 Staccatisimo
+//! c=fx i=fx o=note:16
+16 Various

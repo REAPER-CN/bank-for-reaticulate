@@ -1,0 +1,242 @@
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 1 BSB - Ens Full Brass
+
+//! c=legato-dark i=legato o=note:24
+24 Sustain
+//! c=short i=staccato o=note:25
+25 Staccato
+//! c=short i=tenuto-quarter o=note:26
+26 Tenuto
+//! c=long i=marcato o=note:27
+27 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="02 Trumpets"
+//! m="Set patch to UACC"
+Bank 72 2 BSB - Ens Trumpets
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+//! c=fx i=rip o=note:31
+31 Rip
+//! c=fx i=fall o=note:32
+32 Fall
+//! c=fx i=multitongued o=note:33
+33 Multi-tongue
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="03 Horns"
+//! m="Set patch to UACC"
+Bank 72 3 BSB - Ens Horns
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+//! c=fx i=rip o=note:31
+31 Rip
+//! c=fx i=fall o=note:32
+32 Fall
+//! c=fx i=multitongued o=note:33
+33 Multi-tongue
+//! c=fx i=fx o=note:34
+34 Flutter
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="04 Trombones"
+//! m="Set patch to UACC"
+Bank 72 4 BSB - Ens Trombones
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=fx o=note:29
+29 Flutter
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="05 Low Brass"
+//! m="Set patch to UACC"
+Bank 72 5 BSB - Ens Low Brass
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=rip o=note:29
+29 Rip
+//! c=fx i=fall o=note:30
+30 Fall
+
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="06 Orchestrator" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 6 BSB - Ens Orchestrator
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/01 Ensemble" n="07 Chordmaker" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 7 BSB - Ens Chordmaker
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 8 BSB - Piccolo Trumpet
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+//! c=fx i=trill o=note:29
+29 Trill Major
+//! c=fx i=trill-min2 o=note:30
+30 Trill Minor
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="02 Trumpet" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 9 BSB - Trumpet
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="03 Flugelhorn" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 10 BSB - Flugelhorn
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="04 Horn" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/01 Piccolo Trumpet"
+//! m="Set patch to UACC"
+Bank 72 11 BSB - Horn
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="05 Trombone"
+//! m="Set patch to UACC"
+Bank 72 12 BSB - Trombone
+
+//! c=legato i=legato o=note:24
+24 Legato
+//! c=legato-dark i=legato o=note:25
+25 Sustain
+//! c=short i=staccato o=note:26
+26 Staccato
+//! c=short i=tenuto-quarter o=note:27
+27 Tenuto
+//! c=long i=marcato o=note:28
+28 Marcato
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="06 Tuba" clone="Impact Soundworks/Bravura Scoring Brass/02 Solo/05 Trombone"
+//! m="Set patch to UACC"
+Bank 72 13 BSB - Tuba
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="07 Orchestrator" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 14 BSB - Solo Orchestrator
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/02 Solo" n="08 Chordmaker" clone="Impact Soundworks/Bravura Scoring Brass/01 Ensemble/01 Full Brass"
+//! m="Set patch to UACC"
+Bank 72 15 BSB - Solo Chordmaker
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="01 Full Brass FX"
+//! m="Set patch to UACC"
+Bank 72 16 BSB - Full Brass FX
+
+//! c=fx i=fx o=note:24
+24 Atonal Rips & Falls
+//! c=fx i=fx o=note:25
+25 Atonal Rips + Falls
+//! c=fx i=fx o=note:26
+26 Clusters
+//! c=fx i=fx o=note:27
+27 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="02 Horns FX"
+//! m="Set patch to UACC"
+Bank 72 17 BSB - Horns FX
+
+//! c=fx i=fx o=note:24
+24 Rips, Pulses & Flurries
+//! c=fx i=fx o=note:25
+25 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="03 Trumpets FX"
+//! m="Set patch to UACC"
+Bank 72 18 BSB - Trumpets FX
+
+//! c=fx i=fx o=note:24
+24 Atonal Rips & Falls
+//! c=fx i=fx o=note:25
+25 Stabs & Loose Lips
+//! c=fx i=fx o=note:26
+26 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="04 Trombones FX"
+//! m="Set patch to UACC"
+Bank 72 19 BSB - Trombones FX
+
+//! c=fx i=fx o=note:24
+24 Step Slides & Risers
+//! c=fx i=fx o=note:25
+25 Flutters & Flybys
+//! c=fx i=fx o=note:26
+26 Lydecker Cinematic
+
+//----------------------------------------------------------------------------
+//! g="Impact Soundworks/Bravura Scoring Brass/03 FX" n="05 Low Brass FX"
+//! m="Set patch to UACC"
+Bank 72 20 BSB - Low Brass FX
+
+//! c=fx i=fx o=note:24
+24 Stabs & Scoops
+//! c=fx i=fx o=note:25
+25 Flutter Swells & Flybys
+//! c=fx i=fx o=note:26
+26 Sneaks & Cows

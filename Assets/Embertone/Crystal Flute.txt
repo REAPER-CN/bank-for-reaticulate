@@ -1,0 +1,11 @@
+//----------------------------------------------------------------------------
+//! g="Embertone" n="Crystal Flute"
+//! m="Set patch to UACC"
+Bank 71 1 Embertone - Crystal Flute
+
+//! c=short i=staccato o=note:57
+57 Short
+//! c=long i=note-whole o=note:58
+58 Poly
+//! c=legato i=legato o=note:59
+59 Legato

@@ -1,0 +1,40 @@
+//----------------------------------------------------------------------------
+//! g="Cinematic Studio Strings" n="All-in-One"
+//! m="Set patch to UACC"
+Bank 74 1 CSS 1st Violins
+
+//! c=legato i=legato o=note:24
+24 Sustain
+
+//! c=legato i=tremolo o=note:25
+25 Tremolo
+
+//! c=legato i=tremolo o=note:26
+26 Measured Trem
+
+//! c=legato i=trill o=note:27
+27 Trills
+
+//! c=legato i=harmonics o=note:28
+28 Harmonic
+
+//! c=short i=staccato o=note:29
+29 Staccato
+
+//! c=short i=marcato o=note:30
+30 Marcato
+
+//! c=short i=pizz o=note:31
+31 Pizzicato
+
+//! c=fx i=legato g=2 o=note:34,1
+127 Legato Off
+
+//! c=fx i=legato g=2 o=note:34,127
+126 Legato On
+
+//! c=fx i=con-sord g=2 o=note:35,1
+125 Con-Sordino Off
+
+//! c=fx i=con-sord g=2 o=note:35,127
+124 Con-Sordino On
